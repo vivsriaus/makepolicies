@@ -1,0 +1,15 @@
+{
+  "name": "makepolicies",
+  "version": "1.0.0",
+  "description": "make policies csv file",
+  "main": "makePolicies.js",
+  "dependencies": {
+    "json2csv": "^3.11.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vivsriaus",
+  "license": "ISC"
+}
